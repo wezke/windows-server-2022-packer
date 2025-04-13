@@ -7,7 +7,7 @@ This repository contains a Packer template and associated XML configuration to a
 - [Packer](https://www.packer.io/) (Ensure you have the latest version installed)
 - **XCP-ng** or **XenServer** environment for virtualization
 - A **Windows Server 2022 ISO** to be used in the Packer template
-- [XenServer Packer builder plugin](https://github.com/packer-community/packer-builder-xenserver) (for building images on XCP-ng)
+- [XenServer Packer builder plugin](https://github.com/vatesfr/terraform-provider-xenorchestra) (for building images on XCP-ng)
 
 ## Files Included
 
