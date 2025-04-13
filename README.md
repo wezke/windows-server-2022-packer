@@ -26,3 +26,6 @@ Make sure that [Packer](https://www.packer.io/downloads) is installed on your lo
 brew install packer
 
 # On Windows, follow the instructions at https://www.packer.io/downloads
+
+Place the autounattended.xml in root dir of windows server 2022 iso
+place Xen server guest tools .msi in the root dir of iso and create new iso with https://www.microsoft.com/en-us/download/details.aspx?id=54259
